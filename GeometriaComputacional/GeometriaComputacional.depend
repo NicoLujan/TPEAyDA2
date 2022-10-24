@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1593303949 source:/home/nicolas/Documents/Curso C++/GeometriaComputacional/main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<Punto.h>
+	<math.h>
+	<stack>
+
+1593131891 /home/nicolas/Documents/Curso C++/GeometriaComputacional/include/Punto.h
+
+1592508912 source:/home/nicolas/Documents/Curso C++/GeometriaComputacional/src/Punto.cpp
+	"Punto.h"
+	<math.h>
+
+1592508918 source:/home/nicolas/Documents/Curso C++/GeometriaComputacional/src/Segmento.cpp
+	"Segmento.h"
+	<assert.h>
+
+1592148808 /home/nicolas/Documents/Curso C++/GeometriaComputacional/include/Segmento.h
+	<Punto.h>
+
+1592873411 source:/home/nicolas/Documents/Curso C++/GeometriaComputacional/src/Pila.cpp
+	"Pila.h"
+	<Punto.h>
+	<iostream>
+	<assert.h>
+
+1592873419 /home/nicolas/Documents/Curso C++/GeometriaComputacional/include/Pila.h
+

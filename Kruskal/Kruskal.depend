@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1590358955 source:/home/nicolas/Documents/Curso C++/Kruskal/main.cpp
+	<iostream>
+	<Grafo.h>
+	<ConjuntosDisjuntos.h>
+	<iostream>
+
+1590089342 source:/home/nicolas/Documents/Curso C++/Kruskal/src/Grafo.cpp
+
+1590344250 /home/nicolas/Documents/Curso C++/Kruskal/include/Grafo.h
+	<list>
+	<map>
+	<iostream>
+	<assert.h>
+
+1590357785 source:/home/nicolas/Documents/Curso C++/Kruskal/src/ConjuntosDisjuntos.cpp
+	"ConjuntosDisjuntos.h"
+	<assert.h>
+
+1590169941 /home/nicolas/Documents/Curso C++/Kruskal/include/ConjuntosDisjuntos.h
+
+1590359098 source:e:\kruskal\main.cpp
+	<iostream>
+	<Grafo.h>
+	<ConjuntosDisjuntos.h>
+	<iostream>
+
+1590344250 e:\kruskal\include\grafo.h
+	<list>
+	<map>
+	<iostream>
+	<assert.h>
+
+1590169941 e:\kruskal\include\conjuntosdisjuntos.h
+
+1590357785 source:e:\kruskal\src\conjuntosdisjuntos.cpp
+	"ConjuntosDisjuntos.h"
+	<assert.h>
+
+1590089342 source:e:\kruskal\src\grafo.cpp
+
